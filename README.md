@@ -1,5 +1,5 @@
 # socketIO-realtime-app-nodejs
-This is part of <a href="https://github.com/abliskan/socketIO-realtime-app-nodejs">nodejs-express-restFul-api</a> repo 
+This is part of <a href="https://github.com/abliskan/nodejs-express-restFul-api">nodejs-express-restFul-api</a> repo 
 Demo for real-time comment functionality feature with socket.io
 
 ## How to use
